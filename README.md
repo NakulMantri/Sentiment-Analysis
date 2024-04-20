@@ -11,12 +11,6 @@ The project focuses on sentiment analysis of product reviews to provide insights
 - re
 - string
 - TextBlob
-
-## Installation
-Install the required dependencies using pip:
-```bash
-pip install pandas numpy emoji nltk TextBlob
-
 # Steps
 
 ## Data Preprocessing
@@ -46,3 +40,12 @@ pip install pandas numpy emoji nltk TextBlob
 2. **Outline project overview, dependencies, and installation steps.**
 3. **Provide detailed instructions on each step of the sentiment analysis process.**
 4. **Include examples or sample outputs where applicable.**
+
+
+## Installation
+Install the required dependencies using pip:
+```bash
+pip install pandas numpy emoji nltk TextBlob
+
+
+
