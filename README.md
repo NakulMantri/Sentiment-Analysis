@@ -1,4 +1,4 @@
-# Sentiment-Analysis
+# Sentiment-Analysis from E-commerce : Dynamic feature extraction
 
 ## Overview
 The project focuses on sentiment analysis of product reviews to provide insights for businesses. It employs a combination of rule-based heuristics and machine learning algorithms to analyze user sentiments and behaviors, helping businesses make informed decisions.
