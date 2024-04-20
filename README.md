@@ -35,11 +35,7 @@ The project focuses on sentiment analysis of product reviews to provide insights
 2. **Calculate the percentage of positive sentiments for each feature.**
 3. **Scale the positive percentages to a rating scale (e.g., 5 stars).**
 
-## Generate README
-1. **Create a README file for the project.**
-2. **Outline project overview, dependencies, and installation steps.**
-3. **Provide detailed instructions on each step of the sentiment analysis process.**
-4. **Include examples or sample outputs where applicable.**
+
 
 
 ## Installation
